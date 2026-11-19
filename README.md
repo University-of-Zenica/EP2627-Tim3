@@ -6,3 +6,4 @@ Java aplikacija za sigurnu razmjenu narudžbi i faktura između poslovnih partne
 
 - **Anes Kubat** (predstavnik tima)
 - **Inas Karahmet**
+- **Lamija Mehić**

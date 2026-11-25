@@ -31,3 +31,44 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### H2 baza podataka ###
+*.mv.db
+*.trace.db
+*.lock.db
+/data/
+
+### Certifikati, ključevi i tajne ###
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.truststore
+*.key
+*.pem
+*.cer
+*.crt
+*.der
+.env
+*.local.yml
+*.local.properties
+
+### OpenAS2 radni folderi i logovi ###
+openas2-work/
+openas2-runtime/
+openas2-data/
+as2-data/
+outbox/
+inbox/
+sent/
+mdn/
+error/
+processed/
+pendingMDN3/
+pendinginfoMDN3/
+logs/
+*.log

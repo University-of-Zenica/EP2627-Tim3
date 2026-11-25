@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dokument tip="FAKTURA">
+    <Zaglavlje>
+        <BrojDokumenta>FAK-2026-0001</BrojDokumenta>
+        <DatumDokumenta>2026-11-25</DatumDokumenta>
+        <Valuta>BAM</Valuta>
+    </Zaglavlje>
+    <Posiljalac>
+        <As2Id>PartnerA</As2Id>
+        <Naziv>Partner A d.o.o.</Naziv>
+    </Posiljalac>
+    <Primalac>
+        <As2Id>PartnerB</As2Id>
+        <Naziv>Partner B d.o.o.</Naziv>
+    </Primalac>
+    <Stavke>
+        <Stavka>
+            <Naziv>Usluga održavanja informacionog sistema</Naziv>
+            <Kolicina>1</Kolicina>
+            <JedinicnaCijena>850.00</JedinicnaCijena>
+            <Ukupno>850.00</Ukupno>
+        </Stavka>
+    </Stavke>
+    <UkupanIznos>850.00</UkupanIznos>
+</Dokument>

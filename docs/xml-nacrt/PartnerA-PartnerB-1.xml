@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dokument tip="NARUDZBA">
+    <Zaglavlje>
+        <BrojDokumenta>NAR-2026-0001</BrojDokumenta>
+        <DatumDokumenta>2026-11-25</DatumDokumenta>
+        <Valuta>BAM</Valuta>
+    </Zaglavlje>
+    <Posiljalac>
+        <As2Id>PartnerA</As2Id>
+        <Naziv>Partner A d.o.o.</Naziv>
+    </Posiljalac>
+    <Primalac>
+        <As2Id>PartnerB</As2Id>
+        <Naziv>Partner B d.o.o.</Naziv>
+    </Primalac>
+    <Stavke>
+        <Stavka>
+            <Naziv>Kancelarijski papir A4 (paket)</Naziv>
+            <Kolicina>10</Kolicina>
+            <JedinicnaCijena>9.50</JedinicnaCijena>
+            <Ukupno>95.00</Ukupno>
+        </Stavka>
+        <Stavka>
+            <Naziv>Toner za laserski printer</Naziv>
+            <Kolicina>2</Kolicina>
+            <JedinicnaCijena>120.00</JedinicnaCijena>
+            <Ukupno>240.00</Ukupno>
+        </Stavka>
+    </Stavke>
+    <UkupanIznos>335.00</UkupanIznos>
+</Dokument>
